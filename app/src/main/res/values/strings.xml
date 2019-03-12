@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoApplicationG2</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="success">success</string>
+    <string name="todo_added_successfuly">todo addedd successfully</string>
+    <string name="ok">ok</string>
+    <string name="update">update</string>
+    <string name="todo_item_updated">todo item updated</string>
+    <string name="item_deleted">item deleted</string>
+    <string name="undo">undo</string>
+</resources>
