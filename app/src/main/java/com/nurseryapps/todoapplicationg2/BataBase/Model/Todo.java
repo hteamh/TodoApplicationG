@@ -5,11 +5,7 @@ import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.Ignore;
 import android.arch.persistence.room.PrimaryKey;
 
-/**
- * Created by Mohamed Nabil Mohamed (Nobel) on 1/28/2019.
- * byte code SA
- * m.nabil.fci2015@gmail.com
- */
+
 @Entity
 public class Todo {
     @PrimaryKey(autoGenerate = true)
