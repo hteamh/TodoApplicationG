@@ -10,11 +10,7 @@ import com.nurseryapps.todoapplicationg2.BataBase.Model.Todo;
 
 import java.util.List;
 
-/**
- * Created by Mohamed Nabil Mohamed (Nobel) on 1/28/2019.
- * byte code SA
- * m.nabil.fci2015@gmail.com
- */
+
 @Dao
 public interface TodoDao {
     @Insert
